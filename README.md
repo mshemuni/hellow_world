@@ -55,7 +55,8 @@ h.print()
 ```
 
 ## Example for `Hello World`
-```
+
+```python
 from hello_world import Character, Message, Hello
 
 if __name__ == '__main__':
