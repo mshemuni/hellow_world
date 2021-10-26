@@ -72,3 +72,5 @@ if __name__ == '__main__':
     h.print()
 ```
 Voilà. Here you have "Hello World!" printed.
+
+See jupyter example: https://github.com/mshemuni/hellow_world/blob/main/example.ipynb
